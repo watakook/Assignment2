@@ -2,11 +2,11 @@
 <html>
 
 <head>
-    <title>Python Calculation Output</title>
+    <title>Assignment2 - Wataru Okada</title>
 </head>
 
 <body>
-    <h1>Enter Values for Calculation</h1>
+    <h1>Assignment2 - Wataru Okada</h1>
     <form method="post">
         <label for="a">a:</label>
         <input type="number" name="a" required><br><br>
